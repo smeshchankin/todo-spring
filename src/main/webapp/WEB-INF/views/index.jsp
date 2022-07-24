@@ -13,7 +13,7 @@
         </div>
         <div>
             <h1>API</h1>
-            <a href="/todos">Todos list</a>
+            <a href="todos">Todos list</a>
         </div>
     </div>
 </body>
